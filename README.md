@@ -9,7 +9,7 @@ Overview of the Project
 
 Project: Exploratory Data Analysis (EDA) on Online Sales Data Dataset
 
-Objective
+Objective:
 
 The Objective of this Project is to perform on Exploratory Data Analysis on dataset containing sales data around the world. The aim is to uncover insights into sales trends overtime,distribution corelation and outliners through visualization
 
